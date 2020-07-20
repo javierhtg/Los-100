@@ -1,0 +1,157 @@
+[
+  {
+    "question": "¿El padre de quien de los 100 fue flotado por robar medicamentos?",
+    "choice1": "Harper",
+    "choice2": "Finn",
+    "choice3": "Murphy",
+    "choice4": "Jasper",
+    "answer": 3
+  },
+  {
+    "question": "¿Quien fue el primer canciller del campamento Jaha?",
+    "choice1": "Marcus Kane",
+    "choice2": "Abigail",
+    "choice3": "Jaha",
+    "choice4": "Charles",
+    "answer": 1
+  },
+  {
+    "question": "¿Qué estación del Arca se estrelló en el territorio de Azgeda?",
+    "choice1": "Estación Alfa",
+    "choice2": "Estacion Granja",
+    "choice3": "Estación de Gobierno y Ciencia",
+    "choice4": "Estación Médica",
+    "answer": 2
+  },
+  {
+    "question": "¿Quien fue la primer persona a la que Jaha le dio un chip de A.L.I.E?",
+    "choice1": "Marcus",
+    "choice2": "Jaspher",
+    "choice3": "Abigail",
+    "choice4": "Raven",
+    "answer": 4
+  },
+  {
+    "question": "¿Cuántas personas quedarón vivas en el bunker del segundo amanecer?",
+    "choice1": "923",
+    "choice2": "813",
+    "choice3": "814",
+    "choice4": "437",
+    "answer": 3
+  },
+  {
+    "question": "¿Cómo murió el hijo de la canciller Jaha?",
+    "choice1": "Se cayó de un acantilado",
+    "choice2": "Le dispararon",
+    "choice3": "Fue apuñalado en el cuello",
+    "choice4": "Los destripadores lo capturaron y lo mataron",
+    "answer": 3
+  },
+  {
+    "question": "¿Quién mató a Lexa?",
+    "choice1": "Clarke",
+    "choice2": "Titus",
+    "choice3": "Murphy",
+    "choice4": "Gustus",
+    "answer": 2
+  },
+  {
+    "question": "¿Qué es la llama?",
+    "choice1": "Un simbolo espiritual",
+    "choice2": "Un chip de memoria",
+    "choice3": "Un collar",
+    "choice4": "Una inteligencia artificial",
+    "answer": 4
+  },
+  {
+    "question": "¿Cuántos años vivió Octavia debajo del piso?",
+    "choice1": "10",
+    "choice2": "16",
+    "choice3": "15",
+    "choice4": "17",
+    "answer": 2
+  },
+  {
+    "question": "¿Cuántas generaciones estuvo el Arca en el espacio antes de estrellarse en la Tierra?",
+    "choice1": "3",
+    "choice2": "5",
+    "choice3": "2",
+    "choice4": "4",
+    "answer": 1
+  },
+    
+  {
+    "question": "¿Cerca de qué antigua ciudad importante de EE. UU. Aterrizó el barco de los 100?",
+    "choice1": "Chicago",
+    "choice2": "Los Angeles",
+    "choice3": "Miami",
+    "choice4": "Washington",
+    "answer": 4
+  },
+  {
+    "question": "¿Octavia lleva el nombre de quién?",
+    "choice1": "Su madre",
+    "choice2": "Su abuela",
+    "choice3": "La hermana del emperador Augusto",
+    "choice4": "Una tia",
+    "answer": 3
+  },
+  {
+    "question": "¿A que clan pertenece Roan?",
+    "choice1": "Azgeda",
+    "choice2": "Trikru",
+    "choice3": "Sankru",
+    "choice4": "Podakru",
+    "answer": 1
+  },
+  {
+    "question": "¿Qué quiere decir Wanheda?",
+    "choice1": "Comanadante mortal",
+    "choice2": "Reina de la muerte",
+    "choice3": "Comanadante de la muerte",
+    "choice4": "Guardiana de la muerte",
+    "answer": 3
+  },
+  {
+    "question": "¿Quién fue el primero en entrar en la Ciudad de la Luz?",
+    "choice1": "Abby",
+    "choice2": "Marcus",
+    "choice3": "Murphy",
+    "choice4": "Jaha",
+    "answer": 4
+  },
+  {
+    "question": "¿Quién entrenó a los 100 en habilidades de la Tierra?",
+    "choice1": "Pike",
+    "choice2": "Bellamy",
+    "choice3": "Hindra",
+    "choice4": "Octavia",
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo eligen los clanes a su comandante?",
+    "choice1": "Es seleccionada por el Guardián de la Flama",
+    "choice2": "Hay un día de juegos y competiciones, el ganador se convierte en Comandante.",
+    "choice3": "A través del Cónclave, donde los candidatos de sangre nocturna luchan hasta la muerte",
+    "choice4": "Hay una sucesión familiar de línea de sangre",
+    "answer": 3
+  },
+  {
+    "question": "¿Dónde escondieron Monty y Jasper su hierba en el arca?",
+    "choice1": "Debajo de un lavabo",
+    "choice2": "Detrás de una pared en el dormitorio de Monty",
+    "choice3": "Con otras plantas y hierbas en el jardín",
+    "choice4": "Debajo del suelo",
+    "answer": 2
+  },
+  {
+    "question": "Los destripadores eran:",
+    "choice1": "Gente del cielo",
+    "choice2": "Hombres de montaña",
+    "choice3": "Mutantes",
+    "choice4": "Grounders",
+    "answer": 4
+  }
+
+
+]
