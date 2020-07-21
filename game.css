@@ -56,12 +56,19 @@
   border: 0.3rem solid #000000;
   margin-top: 1.5rem;
 }
+#progressBar img{
+  width: 60px;
+    margin-left: 145px;
+    padding: 0px 10px;
+ 
+}
 
 #progressBarFull {
   height: 3.4rem;
   background-color: #0a2640;
   width: 0%;
 }
+
 
 /* LOADER */
 #loader {
