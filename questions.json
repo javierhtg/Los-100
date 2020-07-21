@@ -9,7 +9,7 @@
   },
   {
     "question": "¿Quien fue el primer canciller del campamento Jaha?",
-    "choice1": "Marcus Kane",
+    "choice1": "Kane",
     "choice2": "Abigail",
     "choice3": "Jaha",
     "choice4": "Charles",
@@ -142,6 +142,96 @@
     "choice2": "Detrás de una pared en el dormitorio de Monty",
     "choice3": "Con otras plantas y hierbas en el jardín",
     "choice4": "Debajo del suelo",
+    "answer": 2
+  },
+  {
+    "question": "¿Cuantós años pasaron Madi y Clarke solas en el valle",
+    "choice1": "4 años",
+    "choice2": "3años",
+    "choice3": "6 años",
+    "choice4": "5 años",
+    "answer": 3
+  },
+  {
+    "question": "¿Cuántos años pasarón en hipersueño en la nave de eligius?",
+    "choice1": "123",
+    "choice2": "125",
+    "choice3": "124",
+    "choice4": "122",
+    "answer": 2
+  },
+   
+    
+  {
+    "question": "¿Cuántas personas mató Finn en una aldea mientras inentaba encontar a Clarke?",
+    "choice1": "15",
+    "choice2": "23",
+    "choice3": "27",
+    "choice4": "18",
+    "answer": 4
+  },
+  {
+    "question": "¿Cuántos años después del apocalipsis nuclear comienza la historia de los 100?",
+    "choice1": "73",
+    "choice2": "55",
+    "choice3": "97",
+    "choice4": "100",
+    "answer": 2
+  },
+  {
+    "question": "De que color es una parte de el cabello Clarke al inicio de la temporada 5?",
+    "choice1": "Azul marino",
+    "choice2": "Rojo",
+    "choice3": "Rosa",
+    "choice4": "Naranja",
+    "answer": 4
+  },
+  {
+    "question": "¿Cual es el personaje favorito de tu novio",
+    "choice1": "Clark",
+    "choice2": "Raven",
+    "choice3": "Bellamy",
+    "choice4": "Octavia",
+    "answer": 3
+  },
+  {
+    "question": "¿Qué es la anomalia",
+    "choice1": "Una maquina para viajajr en el tiempo ",
+    "choice2": "Un puente entre  mundos",
+    "choice3": "Un artefacto teletransportador ",
+    "choice4": "Una roca que te lleva a cualquir parte del espacio",
+    "answer": 2
+  },
+  {
+    "question": "¿Como muer Cage Wallace?",
+    "choice1": "Asesiando por Lincon",
+    "choice2": "Irradiado",
+    "choice3": "Asesinado por Clarke",
+    "choice4": "Asesinado por Maya",
+    "answer": 1
+  },
+  {
+    "question": "¿Cuándo lanzó ALIE el ataque nuclear?",
+    "choice1": "2032",
+    "choice2": "2089",
+    "choice3": "2052",
+    "choice4": "2055",
+    "answer": 3
+  },
+  {
+    "question": "¿A qué clan pertenece Luna?",
+    "choice1": "Skaikru",
+    "choice2": "Trikru",
+    "choice3": "Azgeda",
+    "choice4": "Floukru",
+    "answer": 4
+  },
+  {
+    "question": "¿Cuántos de los 100 entraron al Monte Weather?",
+    "choice1": "52",
+    "choice2": "98",
+    "choice3": "48",
+    "choice4": "80",
     "answer": 2
   },
   {
